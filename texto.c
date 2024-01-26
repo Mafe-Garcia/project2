@@ -1,6 +1,6 @@
 #include <stdio.h>#include <stdlib.h>int main()
 
 {
-    printf("cambio texto 1\n");
+    printf("tengo sueño\n");
     return(EXIT_SUCCESS);
 }
